@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=borz)](https://solved.ac/movgamin)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=borz)](https://solved.ac/borz)
 
